@@ -33,3 +33,22 @@ Gráfico gerado (`comparativo_atendimento_robo.png`) mostrando a melhoria no ate
 1. Execute o script principal:
    ```bash
    python robo_atendimento.py
+
+## Descrição do atendimento via robo 
+Bem-vindo ao atendimento virtual!
+Estamos fora do horário comercial (segunda a sexta-feira, das 8h às 18h).
+Nosso robô está aqui para ajudar com dúvidas frequentes.
+
+⚠️ *Este robô não realiza vendas ou pedidos*. Para comprar, fale com um atendente humano no horário comercial.
+
+Escolha uma das dúvidas abaixo:
+1. Queria saber o valor das canecas acrílicas
+2. Vocês estão funcionando hoje?
+3. Tem o catálogo das produtos disponíveis?
+4. Qual o prazo de entrega para Belo Horizonte?
+5. Vocês fazem canecas personalizadas?
+6. Aceitam Pix como forma de pagamento?
+7. Fiz um pedido pelo site e não recebi nenhuma resposta
+8. Consigo agendar um pedido para semana que vem?
+
+Digite o número da sua dúvida:
